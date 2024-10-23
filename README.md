@@ -1,6 +1,6 @@
 ###  I'm Melbin k Biju 👋
 
-## DevOps Engineer | AWS Certified | IaC Enthusiast
+## DevOps Engineer 
 
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
@@ -8,6 +8,15 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 [![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+ ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+ ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ### 🔧 Technologies and Tools
 
@@ -21,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🌱 I'm currently learning
 
-- Infrastructure as Code with CDK, CDKTF, and Pulumi
+- Infrastructure as Code with CDK, DevSecOps, and MLops
 
 ### 👯 I'm looking to collaborate on
 
@@ -37,6 +46,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - AWS Certified SysOps Administrator - Associate
 - AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
+- DevOps certified soften Technologies
 
 ### 🎖️ Badges
 
