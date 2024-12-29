@@ -37,10 +37,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - Open-source projects related to DevOps, cloud-native technologies, and automation
 - Building scalable and highly available systems
 
-### 📫 How to reach me (portfolio)
-
-- 
-
 ### 🏆 Certifications
 
 - AWS Certified SysOps Administrator - Associate
