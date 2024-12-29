@@ -53,7 +53,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 ![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melbin-k-Biju&show_icons=true&theme=radical)
 
